@@ -4,9 +4,9 @@
 	$config_url=$_SERVER["SERVER_NAME"].'';	
 	
 	$config['database']['servername'] = 'localhost';
-	$config['database']['username'] = 'sextoy18_db';
-	$config['database']['password'] = 'dga.u0nvrqi$';
-	$config['database']['database'] = 'sextoy18_db';
+	$config['database']['username'] = '';
+	$config['database']['password'] = '';
+	$config['database']['database'] = '';
 	$config['database']['refix'] = 'table_';
 	
 	$ip_host = '127.0.0.1';
